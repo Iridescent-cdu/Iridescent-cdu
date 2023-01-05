@@ -4,7 +4,7 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/Iridescent-cdu/cou
 
 ### About My Github
 
-<img height='170' src="https://github-readme-stats.vercel.app/api?username=Iridescent-cdu&show_icons=true&theme=dark" align="left" />
+<img  src="https://github-readme-stats.vercel.app/api?username=Iridescent-cdu&show_icons=true&theme=dark" align="left" />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Iridescent-cdu&langs_count=6&layout=compact&theme=dark)
 
