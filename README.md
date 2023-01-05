@@ -1,6 +1,6 @@
 ### Hi there, I'm Iridescent 👋 
 
-You are my ![Visitor Count](https://profile-counter.glitch.me/Iridescent-cdu/count.svg)th visitor.
+<!-- You are my ![Visitor Count](https://profile-counter.glitch.me/Iridescent-cdu/count.svg)th visitor. -->
 
 ### About My Github
 
