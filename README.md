@@ -7,8 +7,9 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/Iridescent-cdu/cou
 <img height='170' src="https://github-readme-stats.vercel.app/api?username=Iridescent-cdu&show_icons=true&theme=dark" align="left" />
 <img   src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iridescent-cdu&langs_count=6&theme=dark" align="left" />
 <img   src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iridescent-cdu&langs_count=6" align="left" />
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Iridescent-cdu&langs_count=6)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Iridescent-cdu&layout=compact&langs_count=6)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Iridescent-cdu&langs_count=6&layout=compact)
+
 
 <!--
 **Iridescent-cdu/Iridescent-cdu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
