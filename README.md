@@ -6,7 +6,6 @@
 
 <img height='165' src="https://github-readme-stats-sigma-five.vercel.app/api?username=Iridescent-cdu&show_icons=true&theme=dark" align="left" />
 <img height='165' src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Iridescent-cdu&langs_count=6&layout=compact&theme=dark" align="left" />
-<!-- ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Iridescent-cdu&langs_count=6&layout=compact&theme=dark) -->
 
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iridescent-cdu&langs_count=6&theme=dark" align="left" /> -->
 
