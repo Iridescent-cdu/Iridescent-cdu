@@ -2,11 +2,11 @@
 
 <!-- #### You are my ![Visitor Count](https://profile-counter.glitch.me/Iridescent-cdu/count.svg)th visitor. -->
 
-<!-- ### About My Github -->
+### About My Github
 
-<!-- <img height='165' src="https://github-readme-stats-sigma-five.vercel.app/api?username=Iridescent-cdu&show_icons=true&theme=dark" align="left" /> -->
+<img height='165' src="https://github-readme-stats-sigma-five.vercel.app/api?username=Iridescent-cdu&show_icons=true&theme=dark" align="left" />
 
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iridescent-cdu&langs_count=6&theme=dark" align="left" /> -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iridescent-cdu&langs_count=6&theme=dark" align="left" />
 
 <!--
 **Iridescent-cdu/Iridescent-cdu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
