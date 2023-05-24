@@ -1,4 +1,4 @@
-### Hi there, I'm Iridescent 👋 
+### Hi there, I'm Iridescent 👋 A front-end engineer
 
 <!-- #### You are my ![Visitor Count](https://profile-counter.glitch.me/Iridescent-cdu/count.svg)th visitor. -->
 
