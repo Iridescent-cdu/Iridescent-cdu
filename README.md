@@ -4,8 +4,8 @@
 
 ### About My Github
 
-<img height='165' src="https://github-readme-stats-sigma-five.vercel.app/api?username=Iridescent-cdu&show_icons=true&theme=dark" align="left" />
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iridescent-cdu&layout=compact&theme=dark" /> 
+<img height='165' src="https://github-readme-stats-sigma-five.vercel.app/api?username=Iridescent-cdu&show_icons=true&theme=catppuccin_mocha" align="left" />
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iridescent-cdu&layout=compact&theme=catppuccin_mocha" /> 
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iridescent-cdu&langs_count=6&theme=dark" align="left" /> -->
 
 <!--
